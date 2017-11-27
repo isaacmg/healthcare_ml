@@ -25,7 +25,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 ## Signal processing and adverse event prediction
 
 ## Other
+[Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
 ## Multiple Categories 
 
-https://mlhc17mit.github.io
+(https://mlhc17mit.github.io)[Machine Learning for Medicine MIT Course]
