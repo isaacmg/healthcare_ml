@@ -30,3 +30,6 @@ This repository is meant to be an list of the all the relevant resources on appl
 ## Multiple Categories 
 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
+
+[Machine Learning for Healthcare Conference](http://mucmd.org)
+
