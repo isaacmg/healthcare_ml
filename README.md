@@ -33,3 +33,6 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
+
+[2017 ICML Healthcare Related Papers](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
+
