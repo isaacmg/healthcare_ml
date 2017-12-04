@@ -12,6 +12,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 ### Conferences and Workshops
 [Medical Imaging meets NIPS]
 
+[Medical Image Computing and Computer Assisted Intervention](http://www.miccai2017.org)
+
 [Machine Learning in Medical Imaging](http://mlmi2016.web.unc.edu)
 
 [SIM Conference on Machine Intelligence in Medical Imaging](http://siim.org/page/2017CMIMI)
@@ -28,6 +30,7 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
+
 
 ## Signal processing and adverse event prediction
 
