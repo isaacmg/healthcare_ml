@@ -10,6 +10,10 @@ This repository is meant to be an list of the all the relevant resources on appl
 ### Papers 
 
 ### Conferences and Workshops
+[Medical Imaging meets NIPS]
+
+[Machine Learning in Medical Imaging](http://mlmi2016.web.unc.edu)
+
 [SIM Conference on Machine Intelligence in Medical Imaging](http://siim.org/page/2017CMIMI)
 
 ### Datasets
@@ -19,21 +23,28 @@ This repository is meant to be an list of the all the relevant resources on appl
 ### Tools
 [DeepInfer](http://www.deepinfer.org)
 
+### Other 
+[Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
+
 
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
 
 ## Signal processing and adverse event prediction
 
 ## Other
-[Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
-## Multiple Categories 
 
+## Multiple Categories
+
+### Conferences 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
-[Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
+
+### Companies
+[Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
+
 
