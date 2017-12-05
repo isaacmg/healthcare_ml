@@ -3,6 +3,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ## Introduction
 
+## Genomics
+
 ## Precision Medicine/Drug Discovery
 
 ## Medical Imaging
