@@ -9,16 +9,24 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ## Medical Imaging
 
-### Papers 
+### Papers
+
+### Blogs, blog posts, and reddit discussion
 
 ### Conferences and Workshops
-[Medical Imaging meets NIPS]
+
+[Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2017)
+
+[Medical Imaging Summer School 2014](http://iplab.dmi.unict.it/miss14/)
 
 [Medical Image Computing and Computer Assisted Intervention](http://www.miccai2017.org)
 
 [Machine Learning in Medical Imaging](http://mlmi2016.web.unc.edu)
 
 [SIM Conference on Machine Intelligence in Medical Imaging](http://siim.org/page/2017CMIMI)
+
+### Research Groups 
+[Imperial University](https://biomedia.doc.ic.ac.uk)
 
 ### Datasets
 
