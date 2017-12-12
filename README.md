@@ -15,7 +15,7 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ### Conferences and Workshops
 
-[Medical Imaging for deep learning MIDL](https://sites.google.com/view/midl)
+[Medical Imaging with deep learning MIDL](https://sites.google.com/view/midl)
 
 [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2017)
 
