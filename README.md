@@ -8,6 +8,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 ## Precision Medicine/Drug Discovery
 
 ## Medical Imaging
+[Dermatologist Level Skin Classification of skin cancer with deep neural networks]
+
 
 ### Papers
 
@@ -44,7 +46,11 @@ This repository is meant to be an list of the all the relevant resources on appl
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
 
 
-## Signal processing and adverse event prediction
+## Signal processing, forecasting, and adverse event prediction
+
+Analysing and Improving the Diagnosis of Ischaemic Heart Disease with Machine Learning (NIH classic article)
+
+Cardiologist level classification of arrhythmia (Stanford)
 
 ## Other
 
@@ -58,6 +64,14 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
+
+### Papers 
+
+Doctor AI: Predicting Clinical Events via Recurrent Neural Networks (MLR)
+
+Machine Learning for Medical Diagnosis (classic PSU article 2006)
+
+Deep Learning for Healthcare Review, Opportunities, Challenges (Oxford Academic 2017)
 
 ### Companies
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
