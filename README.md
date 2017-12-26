@@ -8,10 +8,11 @@ This repository is meant to be an list of the all the relevant resources on appl
 ## Precision Medicine/Drug Discovery
 
 ## Medical Imaging
-[Dermatologist Level Skin Classification of skin cancer with deep neural networks]
+
 
 
 ### Papers
+[Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
 ### Blogs, blog posts, and reddit discussions
 
@@ -48,16 +49,16 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ## Signal processing, forecasting, and adverse event prediction
 
+### Papers 
+
 [Analysing and Improving the Diagnosis of Ischaemic Heart Disease with Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/10225345) NIH Article
 
 [Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR [
 
 Cardiologist level classification of arrhythmia (Stanford)
 
-## Other
 
-
-## Multiple Categories
+## Other and Multiple Categories
 
 ### Conferences 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
@@ -69,13 +70,17 @@ Cardiologist level classification of arrhythmia (Stanford)
 
 ### Papers 
 
-
-
-[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) (classic PSU article 2006)
+[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) (PSU article 2006)
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
 
-### Companies
-[Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
+# Companies 
+Companies are arranged alphabetical order.
+![Image of stratups](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 
+[Deep Genomics](https://www.deepgenomics.com)
+
+[Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
+
+[Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
 
