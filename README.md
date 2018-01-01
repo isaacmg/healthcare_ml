@@ -15,6 +15,7 @@ This repository is meant to be an list of the all the relevant resources on appl
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
 ### Blogs, blog posts, and reddit discussions
+[Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
 
 ### Conferences and Workshops
 
