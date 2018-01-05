@@ -54,9 +54,9 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 [Analysing and Improving the Diagnosis of Ischaemic Heart Disease with Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/10225345) NIH Article
 
-[Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR [
+[Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR 
 
-Cardiologist level classification of arrhythmia (Stanford)
+[Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
 
 
 ## Other and Multiple Categories
