@@ -34,6 +34,18 @@ This repository is meant to be an list of the all the relevant resources on appl
 ### Research Groups 
 [Imperial University](https://biomedia.doc.ic.ac.uk)
 
+### Competitions 
+
+[Digital Mammography Recall Challenge](https://www.synapse.org/#!Synapse:syn4224222) 
+
+[Kaggle 2017 Data Science Bowl-Lung diagnosis](https://www.kaggle.com/c/data-science-bowl-2017)
+
+LUNA 16
+
+[Kaggle 2016 Data Science Bowl-Measuring ejection fraction](https://www.kaggle.com/c/second-annual-data-science-bowl#description)
+
+
+
 ### Datasets
 
 ### Code Repositories 
