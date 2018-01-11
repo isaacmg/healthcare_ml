@@ -7,12 +7,18 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ## Precision Medicine/Drug Discovery
 
+[ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
+
+[Regression tree methods for precision medicine](https://www.youtube.com/watch?v=jpUItf0Wt4Y) talk by Wei-Yin Loh
+University of Wisconsin-Madison, USA. 
+
+
 ## Medical Imaging
-
-
 
 ### Papers
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
+
+[Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
 ### Blogs, blog posts, and reddit discussions
 [Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
@@ -33,6 +39,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ### Research Groups 
 [Imperial University](https://biomedia.doc.ic.ac.uk)
+
+[Images Science Institute at Utrecht](https://www.isi.uu.nl/Research/Publications/index.html)
 
 ### Competitions 
 
@@ -77,7 +85,6 @@ LUNA 16
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
-
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
 
