@@ -10,7 +10,12 @@ This repository is meant to be an list of the all the relevant resources on appl
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
 
 [Regression tree methods for precision medicine](https://www.youtube.com/watch?v=jpUItf0Wt4Y) talk by Wei-Yin Loh
-University of Wisconsin-Madison, USA. 
+University of Wisconsin-Madison, USA.
+
+[Survey of Computational Methods for Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4719067/)
+
+### Tools
+[DeepChem](https://deepchem.io)
 
 
 ## Medical Imaging
