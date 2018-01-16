@@ -90,7 +90,7 @@ LUNA 16
 
 ### Papers 
 
-[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) (PSU article 2006)
+[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
 
@@ -103,4 +103,7 @@ Companies are arranged alphabetical order.
 [Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
+
+[Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
+
 
