@@ -71,7 +71,7 @@ LUNA 16
 
 
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
-[Smart Hospital Hand Hygiene (Stanford0) ](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
+[Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
 
 ## Signal processing, forecasting, and adverse event prediction
