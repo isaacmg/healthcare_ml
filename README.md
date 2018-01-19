@@ -86,6 +86,8 @@ LUNA 16
 
 ## Other and Multiple Categories
 
+[Role of ML in clinical decision support](https://www.youtube.com/watch?v=A4Uk88-DOBA)
+
 ### Conferences 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
