@@ -71,6 +71,7 @@ LUNA 16
 
 
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
+[Smart Hospital Hand Hygiene (Stanford0) ](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
 
 ## Signal processing, forecasting, and adverse event prediction
@@ -83,10 +84,11 @@ LUNA 16
 
 [Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
 
+[
+
 
 ## Other and Multiple Categories
 
-[Role of ML in clinical decision support](https://www.youtube.com/watch?v=A4Uk88-DOBA)
 
 ### Conferences 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
