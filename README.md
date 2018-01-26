@@ -30,6 +30,8 @@ University of Wisconsin-Madison, USA.
 
 ### Conferences and Workshops
 
+[Harvard Digital Doctor Symposium](https://youtu.be/CiqYtZWBXqE)
+
 [Medical Imaging with deep learning MIDL](https://sites.google.com/view/midl)
 
 [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2017)
@@ -75,6 +77,7 @@ LUNA 16
 
 
 ## Signal processing, forecasting, and adverse event prediction
+[Dyanmic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 ### Papers 
 
