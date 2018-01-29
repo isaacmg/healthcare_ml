@@ -58,6 +58,8 @@ University of Wisconsin-Madison, USA.
 LUNA 16
 
 [Kaggle 2016 Data Science Bowl-Measuring ejection fraction](https://www.kaggle.com/c/second-annual-data-science-bowl#description)
+### Videos 
+[Learning to read deep learning papers -i.e. dicussion of ChexNet by Stanford](https://www.youtube.com/watch?v=xoUpKjxbeC0&t=2s)
 
 
 
@@ -75,6 +77,8 @@ LUNA 16
 ## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
+[Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
+
 
 ## Signal processing, forecasting, and adverse event prediction
 [Dyanmic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
@@ -87,8 +91,6 @@ LUNA 16
 
 [Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
 
-[
-
 
 ## Other and Multiple Categories
 
@@ -97,6 +99,8 @@ LUNA 16
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
+
+[Machine Learning for Healthcare 2018](https://www.mlforhc.org)
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
 
