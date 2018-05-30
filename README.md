@@ -76,10 +76,19 @@ LUNA 16
 [Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
 
-## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning...)
+## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning, HAIs...)
+
+[Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
+
+[Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
+
+[Multitask Learning and Benchmarking with Clinical Time Series Data](https://arxiv.org/abs/1703.07771)
+
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
 [Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
+
+
 
 
 ## Signal processing, forecasting, and adverse event prediction
