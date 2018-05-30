@@ -44,6 +44,8 @@ University of Wisconsin-Madison, USA.
 
 [SIM Conference on Machine Intelligence in Medical Imaging](http://siim.org/page/2017CMIMI)
 
+[CVPR 2018 Medical Imaging Workshop](https://sites.google.com/site/cvprmcv18/)
+
 ### Research Groups 
 [Imperial University](https://biomedia.doc.ic.ac.uk)
 
@@ -96,7 +98,6 @@ LUNA 16
 
 
 ### Conferences 
-[Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
@@ -104,11 +105,17 @@ LUNA 16
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
 
+[ICML AI and Health Workshop](http://sots.brookes.ac.uk/~p0072382/ai4h2018/)
+
 ### Papers 
 
 [Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
+
+### Courses
+
+[Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
 # Companies 
 Companies are arranged alphabetical order.
@@ -121,5 +128,6 @@ Companies are arranged alphabetical order.
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
 
 [Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
+
 
 
