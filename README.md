@@ -66,6 +66,8 @@ LUNA 16
 
 
 ### Datasets
+[CheX-Ray14](https://nihcc.app.box.com/v/ChestXray-NIHCC)
+
 
 ### Code Repositories 
 
@@ -137,6 +139,8 @@ Companies are arranged alphabetical order.
 [Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
+
+[Insitrio](http://www.insitro.com)
 
 [Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
 
