@@ -122,6 +122,8 @@ LUNA 16
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
 
+[Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
+
 ### Courses
 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
