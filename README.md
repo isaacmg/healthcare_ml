@@ -57,6 +57,8 @@ University of Wisconsin-Madison, USA.
 
 [Kaggle 2017 Data Science Bowl-Lung diagnosis](https://www.kaggle.com/c/data-science-bowl-2017)
 
+[NIPS 2018 Prothestics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge)
+
 LUNA 16
 
 [Kaggle 2016 Data Science Bowl-Measuring ejection fraction](https://www.kaggle.com/c/second-annual-data-science-bowl#description)
@@ -89,9 +91,6 @@ LUNA 16
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
 [Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
-
-
-
 
 ## Signal processing, forecasting, and adverse event prediction
 [Dyanmic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
@@ -134,6 +133,8 @@ LUNA 16
 Companies are arranged alphabetical order.
 ![Image of stratups](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 
+[Center Clinical Data Science Mass General](https://www.ccds.io)
+
 [Deep Genomics](https://www.deepgenomics.com)
 
 [Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
@@ -141,6 +142,8 @@ Companies are arranged alphabetical order.
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
 
 [Insitrio](http://www.insitro.com)
+
+[Path.AI](http://path.ai)
 
 [Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
 
