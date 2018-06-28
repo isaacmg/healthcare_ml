@@ -93,7 +93,7 @@ LUNA 16
 [Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
 
 ## Signal processing, forecasting, and adverse event prediction
-[Dyanmic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
+[Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 ### Papers 
 
@@ -124,6 +124,8 @@ LUNA 16
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
 
 [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
+
+[Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis]()
 
 ### Courses
 
