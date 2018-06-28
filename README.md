@@ -62,6 +62,7 @@ University of Wisconsin-Madison, USA.
 LUNA 16
 
 [Kaggle 2016 Data Science Bowl-Measuring ejection fraction](https://www.kaggle.com/c/second-annual-data-science-bowl#description)
+
 ### Videos 
 [Learning to read deep learning papers -i.e. dicussion of ChexNet by Stanford](https://www.youtube.com/watch?v=xoUpKjxbeC0&t=2s)
 
@@ -87,6 +88,8 @@ LUNA 16
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
 
 [Multitask Learning and Benchmarking with Clinical Time Series Data](https://arxiv.org/abs/1703.07771)
+
+[Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis](https://sci-hub.tw/10.1097/ALN.0000000000002300#)
 
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
@@ -117,15 +120,14 @@ LUNA 16
 
 [ICML AI and Health Workshop](http://sots.brookes.ac.uk/~p0072382/ai4h2018/)
 
-### Papers 
-
-[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
-
-[Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
+### Papers
 
 [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
 
-[Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis]()
+[Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
+
+[Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
+
 
 ### Courses
 
