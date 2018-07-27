@@ -7,6 +7,8 @@ This repository is meant to be an list of the all the relevant resources on appl
 
 ## Precision Medicine/Drug Discovery
 
+[NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
+
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
 
 [Regression tree methods for precision medicine](https://www.youtube.com/watch?v=jpUItf0Wt4Y) talk by Wei-Yin Loh
@@ -111,6 +113,8 @@ LUNA 16
 
 ## Other and Multiple Categories
 
+### Datasets
+[ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
 ### Conferences 
 
@@ -122,11 +126,15 @@ LUNA 16
 
 [ICML AI and Health Workshop](http://sots.brookes.ac.uk/~p0072382/ai4h2018/)
 
+[Ninth Workshop on Health Text Mining at EMNLP](https://louhi2018.fbk.eu)
+
 ### Papers
 
 [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
+
+[Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
 [Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
 
