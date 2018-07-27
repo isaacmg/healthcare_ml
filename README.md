@@ -25,6 +25,8 @@ University of Wisconsin-Madison, USA.
 
 [Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
+[On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
+
 ### Blogs, blog posts, and reddit discussions
 [Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
 
