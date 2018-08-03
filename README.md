@@ -31,6 +31,7 @@ University of Wisconsin-Madison, USA.
 
 ### Blogs, blog posts, and reddit discussions
 [Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
+[A case study of text annotation for medical imaging - LightTag](https://lighttag.io/blog/embrace-the-noise/)
 
 ### Conferences and Workshops
 
