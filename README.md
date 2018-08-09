@@ -117,6 +117,8 @@ LUNA 16
 ### Datasets
 [ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
+[Clinical Case Reports Dataset for machine comprehension](https://github.com/clips/clicr)
+
 ### Conferences 
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
