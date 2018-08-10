@@ -123,6 +123,8 @@ LUNA 16
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
+[Trec Clinical Decisiion Support](http://www.trec-cds.org)
+
 [Machine Learning for Healthcare 2018](https://www.mlforhc.org)
 
 [2017 ICML Healthcare Related Talks](https://2017.icml.cc/Conferences/2017/Schedule?showParentSession=1379)
@@ -130,6 +132,8 @@ LUNA 16
 [ICML AI and Health Workshop](http://sots.brookes.ac.uk/~p0072382/ai4h2018/)
 
 [Ninth Workshop on Health Text Mining at EMNLP](https://louhi2018.fbk.eu)
+
+
 
 ### Papers
 
@@ -149,6 +153,8 @@ LUNA 16
 # Companies 
 Companies are arranged alphabetical order.
 ![Image of stratups](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
+
+[Benevolent AI](https://benevolent.ai)
 
 [Center Clinical Data Science Mass General](https://www.ccds.io)
 
