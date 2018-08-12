@@ -123,7 +123,7 @@ LUNA 16
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
-[Trec Clinical Decisiion Support](http://www.trec-cds.org)
+[Trec Clinical Decision Support](http://www.trec-cds.org)
 
 [Machine Learning for Healthcare 2018](https://www.mlforhc.org)
 
