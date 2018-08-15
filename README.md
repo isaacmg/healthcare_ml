@@ -1,5 +1,5 @@
 # Machine Learning for Healthcare
-This repository is meant to be an list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request.
+This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request.
 
 ## Introduction
 
@@ -115,9 +115,14 @@ LUNA 16
 ## Other and Multiple Categories
 
 ### Datasets
-[ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
 [Clinical Case Reports Dataset for machine comprehension](https://github.com/clips/clicr)
+
+[ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
+
+[Oncokb](http://oncokb.org/)
+
+
 
 ### Conferences 
 
@@ -132,6 +137,8 @@ LUNA 16
 [ICML AI and Health Workshop](http://sots.brookes.ac.uk/~p0072382/ai4h2018/)
 
 [Ninth Workshop on Health Text Mining at EMNLP](https://louhi2018.fbk.eu)
+
+[DL 2018](https://www.re-work.co/events/deep-learning-health-boston-2018)
 
 
 
