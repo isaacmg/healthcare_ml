@@ -23,11 +23,16 @@ University of Wisconsin-Madison, USA.
 ## Medical Imaging
 
 ### Papers
+
+[Clinically Applicable deep learning for retinal disease diagnosis and referal](https://lmb.informatik.uni-freiburg.de/Publications/2018/Ron18/paper-De_Fauw_et_al_2018_Nature_Medicine.pdf)
+
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
 [Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
+
+
 
 ### Blogs, blog posts, and reddit discussions
 [Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
@@ -101,7 +106,7 @@ LUNA 16
 [Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
 
 ## Signal processing, forecasting, and adverse event prediction
-[Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
+
 
 ### Papers 
 
@@ -110,6 +115,8 @@ LUNA 16
 [Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR 
 
 [Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
+
+[Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 
 ## Other and Multiple Categories
