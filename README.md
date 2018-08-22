@@ -97,6 +97,8 @@ LUNA 16
 
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
 
+[Unsupervised Domain Adaptation for Clinical Negation Detection](http://www.aclweb.org/anthology/W17-2320)
+
 [Multitask Learning and Benchmarking with Clinical Time Series Data](https://arxiv.org/abs/1703.07771)
 
 [Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis](https://sci-hub.tw/10.1097/ALN.0000000000002300#)
