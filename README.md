@@ -7,7 +7,7 @@ This repository is a list of the all the relevant resources on applying machine 
 
 ## Precision Medicine/Drug Discovery
 
-[Clinical Named Entity Recognition system (CliNER)]https://github.com/text-machine-lab/CliNER
+[Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
 
 [NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
 
