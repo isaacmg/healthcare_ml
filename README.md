@@ -7,6 +7,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 ## Precision Medicine/Drug Discovery
 
+[Clinical Named Entity Recognition system (CliNER)]https://github.com/text-machine-lab/CliNER
+
 [NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
 
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
@@ -123,13 +125,14 @@ LUNA 16
 
 ## Other and Multiple Categories
 
+
 ### Datasets
 
 [Clinical Case Reports Dataset for machine comprehension](https://github.com/clips/clicr)
 
 [ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
-[Oncokb](http://oncokb.org/)
+[OncoKB](http://oncokb.org/)
 
 
 
