@@ -9,6 +9,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
 
+[Lesson Learned from Natural Language Inference in the Clinical Domain(https://arxiv.org/pdf/1808.06752.pdf)
+
 [NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
 
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
