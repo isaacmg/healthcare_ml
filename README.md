@@ -130,7 +130,9 @@ LUNA 16
 
 [Clinical Case Reports Dataset for machine comprehension](https://github.com/clips/clicr)
 
-[ EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
+[NLP Datasets from I2I](https://www.i2b2.org/NLP/DataSets/Main.php)
+
+[EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
 [OncoKB](http://oncokb.org/)
 
