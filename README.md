@@ -134,6 +134,8 @@ LUNA 16
 
 [EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
 
+[EMR-Question and Answering Code](https://github.com/panushri25/emrQA)
+
 [OncoKB](http://oncokb.org/)
 
 
@@ -160,11 +162,15 @@ LUNA 16
 
 [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
 
+[Annotating a Large Representative Corpus of Clinical Notes for Parts of Speech](https://www.researchgate.net/publication/301404639_Annotating_a_Large_Representative_Corpus_of_Clinical_Notes_for_Parts_of_Speech)
+
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
 
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
 [Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
+
+[EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
 
 ### Courses
