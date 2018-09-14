@@ -36,6 +36,8 @@ University of Wisconsin-Madison, USA.
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
 
+[Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
+
 
 
 ### Blogs, blog posts, and reddit discussions
