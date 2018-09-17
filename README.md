@@ -1,3 +1,29 @@
+## Table Of Contents
+- [Machine Learning for Healthcare](#machine-learning-for-healthcare)
+    - [Introduction](#introduction)
+    - [Genomics](#genomics)
+    - [Precision Medicine/Drug Discovery](#precision-medicinedrug-discovery)
+        - [Tools](#tools)
+    - [Medical Imaging](#medical-imaging)
+        - [Papers](#papers)
+        - [Blogs, blog posts, and reddit discussions](#blogs-blog-posts-and-reddit-discussions)
+        - [Conferences and Workshops](#conferences-and-workshops)
+        - [Research Groups](#research-groups)
+        - [Competitions](#competitions)
+        - [Videos](#videos)
+        - [Datasets](#datasets)
+        - [Code Repositories](#code-repositories)
+        - [Tools](#tools)
+        - [Other](#other)
+    - [Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)](#hospital-operations-ie-or-utilization-scheduling-discharge-planning-hais)
+    - [Signal processing, forecasting, and adverse event prediction](#signal-processing-forecasting-and-adverse-event-prediction)
+        - [Papers](#papers)
+    - [Other and Multiple Categories](#other-and-multiple-categories)
+        - [Datasets](#datasets)
+        - [Conferences](#conferences)
+        - [Papers](#papers)
+- [Companies](#companies)
+
 # Machine Learning for Healthcare
 This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request.
 
@@ -97,7 +123,7 @@ LUNA 16
 [Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
 
-## Hospital Operations (i.e OR Utilization, Scheduling, Discharge planning, HAIs...)
+## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
 
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
 
@@ -202,6 +228,3 @@ Companies are arranged alphabetical order.
 [Path.AI](http://path.ai)
 
 [Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
-
-
-
