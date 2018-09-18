@@ -37,6 +37,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Lesson Learned from Natural Language Inference in the Clinical Domain(https://arxiv.org/pdf/1808.06752.pdf)
 
+[Molecular De Novo design using Recurrent Neural Networks and Reinforcement Learning Code](https://github.com/MarcusOlivecrona/REINVENT)
+
 [NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
 
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
@@ -61,6 +63,7 @@ University of Wisconsin-Madison, USA.
 [Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
+[OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis(https://openreview.net/forum?id=BkZu9wooz)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
