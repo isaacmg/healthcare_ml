@@ -67,6 +67,7 @@ University of Wisconsin-Madison, USA.
 [Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
+
 [OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis(https://openreview.net/forum?id=BkZu9wooz)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
@@ -74,7 +75,9 @@ University of Wisconsin-Madison, USA.
 
 
 ### Blogs, blog posts, and reddit discussions
+
 [Luke Oakden Rayner's blog](https://lukeoakdenrayner.wordpress.com)
+
 [A case study of text annotation for medical imaging - LightTag](https://lighttag.io/blog/embrace-the-noise/)
 
 ### Conferences and Workshops
