@@ -215,7 +215,7 @@ LUNA 16
 [MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare](https://nips.cc/Conferences/2018/Schedule?showEvent=11448)
 
 
-E### Courses
+### Courses
 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
