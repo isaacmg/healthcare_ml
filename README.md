@@ -214,6 +214,9 @@ LUNA 16
 
 [MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare](https://nips.cc/Conferences/2018/Schedule?showEvent=11448)
 
+[Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
+
+
 
 ### Courses
 
