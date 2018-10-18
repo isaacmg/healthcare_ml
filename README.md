@@ -98,14 +98,14 @@ University of Wisconsin-Madison, USA.
 
 [CVPR 2018 Medical Imaging Workshop](https://sites.google.com/site/cvprmcv18/)
 
-### Research Groups 
+### Research Groups
 [Imperial University](https://biomedia.doc.ic.ac.uk)
 
 [Images Science Institute at Utrecht](https://www.isi.uu.nl/Research/Publications/index.html)
 
-### Competitions 
+### Competitions
 
-[Digital Mammography Recall Challenge](https://www.synapse.org/#!Synapse:syn4224222) 
+[Digital Mammography Recall Challenge](https://www.synapse.org/#!Synapse:syn4224222)
 
 [Kaggle 2017 Data Science Bowl-Lung diagnosis](https://www.kaggle.com/c/data-science-bowl-2017)
 
@@ -115,7 +115,7 @@ LUNA 16
 
 [Kaggle 2016 Data Science Bowl-Measuring ejection fraction](https://www.kaggle.com/c/second-annual-data-science-bowl#description)
 
-### Videos 
+### Videos
 [Learning to read deep learning papers -i.e. dicussion of ChexNet by Stanford](https://www.youtube.com/watch?v=xoUpKjxbeC0&t=2s)
 
 
@@ -124,12 +124,12 @@ LUNA 16
 [CheX-Ray14](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
 
-### Code Repositories 
+### Code Repositories
 
 ### Tools
 [DeepInfer](http://www.deepinfer.org)
 
-### Other 
+### Other
 [Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
 
@@ -152,11 +152,11 @@ LUNA 16
 ## Signal processing, forecasting, and adverse event prediction
 
 
-### Papers 
+### Papers
 
 [Analysing and Improving the Diagnosis of Ischaemic Heart Disease with Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/10225345) NIH Article
 
-[Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR 
+[Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR
 
 [Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
 
@@ -180,7 +180,7 @@ LUNA 16
 
 
 
-### Conferences 
+### Conferences
 
 [Machine Learning for Healthcare Conference](http://mucmd.org)
 
@@ -204,7 +204,7 @@ LUNA 16
 
 [Annotating a Large Representative Corpus of Clinical Notes for Parts of Speech](https://www.researchgate.net/publication/301404639_Annotating_a_Large_Representative_Corpus_of_Clinical_Notes_for_Parts_of_Speech)
 
-[Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic. 
+[Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic.
 
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
@@ -222,7 +222,13 @@ LUNA 16
 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
-# Companies 
+# Natural Language Processing for Healthcare
+
+## Tools
+
+Clinical Named Entity Recognition [CliNER](https://github.com/text-machine-lab/CliNER)
+
+# Companies
 Companies are arranged alphabetical order.
 ![Image of stratups](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 
