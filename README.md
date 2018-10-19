@@ -25,15 +25,13 @@
 - [Companies](#companies)
 
 # Machine Learning for Healthcare
-This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request.
+This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request. At the moment structure of the repository is as follows: instead of being broken down by machine learning domains as you would technically expect (i.e. computer vision, NLP, audio...etc), it is broken down by application area (i.e. precision medicine, genomics, medical imaging/radiology, hospital operations...). Papers, conferences, tools, or courses that cover multiple areas of healthcare are moved to the "other/overlapping" category. If you think that this is confusing or there is a better way of doing things please post in the [issues discussion](https://github.com/isaacmg/healthcare_ml/issues/6) 
 
 ## Introduction
 
 ## Genomics
 
 ## Precision Medicine/Drug Discovery
-
-[Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
 
 [Dr. VAE](https://arxiv.org/pdf/1706.08203.pdf)
 
@@ -216,17 +214,15 @@ LUNA 16
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
 
+### Additional Natural Language Processing for Healthcare Tools
+
+[Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
 
 
 ### Courses
 
 [Machine Learning for Medicine MIT Course](https://mlhc17mit.github.io)
 
-# Natural Language Processing for Healthcare
-
-## Tools
-
-Clinical Named Entity Recognition [CliNER](https://github.com/text-machine-lab/CliNER)
 
 # Companies
 Companies are arranged alphabetical order.
