@@ -227,6 +227,7 @@ LUNA 16
 ## Tools
 
 Clinical Named Entity Recognition [CliNER](https://github.com/text-machine-lab/CliNER)
+Information extraction system from medical data [Apache cTAKES](http://ctakes.apache.org/)
 
 # Companies
 Companies are arranged alphabetical order.
