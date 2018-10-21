@@ -25,7 +25,7 @@
 - [Companies](#companies)
 
 # Machine Learning for Healthcare
-This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request. At the moment structure of the repository is as follows: instead of being broken down by machine learning domains as you would technically expect (i.e. computer vision, NLP, audio...etc), it is broken down by application area (i.e. precision medicine, genomics, medical imaging/radiology, hospital operations...). Papers, conferences, tools, or courses that cover multiple areas of healthcare are moved to the "other/overlapping" category. If you think that this is confusing or there is a better way of doing things please post in the [issues discussion](https://github.com/isaacmg/healthcare_ml/issues/6) 
+This repository is a list of the all the relevant resources on applying machine learning to healthcare. If you see an article, repository, or other useful addition please make a pull request. At the moment structure of the repository is as follows: instead of being broken down by machine learning domains as you would technically expect (i.e. computer vision, NLP, audio...etc), it is broken down by application area (i.e. precision medicine, genomics, medical imaging/radiology, hospital operations...). Papers, conferences, tools, or courses that cover multiple areas of healthcare are moved to the "other/overlapping" category. If you think that this is confusing or there is a better way of doing things please post in the [issues discussion](https://github.com/isaacmg/healthcare_ml/issues/6)
 
 ## Introduction
 
@@ -217,6 +217,7 @@ LUNA 16
 ### Additional Natural Language Processing for Healthcare Tools
 
 [Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
+[Clinical Text Analysis Knowledge Extraction System (cTAKES)](http://ctakes.apache.org/)
 
 
 ### Courses
