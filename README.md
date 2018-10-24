@@ -35,6 +35,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Dr. VAE](https://arxiv.org/pdf/1706.08203.pdf)
 
+[Deep generative models of genetic variation capture the effects of mutations](https://arxiv.org/abs/1712.06527)
+
 [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)
 
 [Lesson Learned from Natural Language Inference in the Clinical Domain](https://arxiv.org/pdf/1808.06752.pdf)
@@ -59,6 +61,8 @@ University of Wisconsin-Madison, USA.
 ### Papers
 
 [Clinically Applicable deep learning for retinal disease diagnosis and referal](https://lmb.informatik.uni-freiburg.de/Publications/2018/Ron18/paper-De_Fauw_et_al_2018_Nature_Medicine.pdf)
+
+[CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
 
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
