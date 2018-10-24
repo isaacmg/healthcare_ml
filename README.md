@@ -210,13 +210,17 @@ LUNA 16
 
 [EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
-[MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare](https://nips.cc/Conferences/2018/Schedule?showEvent=11448)
+[MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare]
+(https://nips.cc/Conferences/2018/Schedule?showEvent=11448)
+
+[Novel Exploration Techniques (NETs) for Malaria Policy Interventions](https://arxiv.org/pdf/1712.00428.pdf)
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
 
 ### Additional Natural Language Processing for Healthcare Tools
 
 [Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
+
 [Clinical Text Analysis Knowledge Extraction System (cTAKES)](http://ctakes.apache.org/)
 
 
