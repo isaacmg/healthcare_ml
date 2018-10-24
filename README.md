@@ -70,7 +70,7 @@ University of Wisconsin-Madison, USA.
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
 
-[OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image] Analysis(https://openreview.net/forum?id=BkZu9wooz)
+[OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis](https://openreview.net/forum?id=BkZu9wooz)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
@@ -160,7 +160,7 @@ LUNA 16
 
 [Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR
 
-[Cardiologist level classification of arrhythmia](https://arxiv.org/pdf/1707.01836.pdf) (Stanford)
+[Cardiologist level classification of arrhythmia (Stanford)](https://arxiv.org/pdf/1707.01836.pdf) 
 
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
