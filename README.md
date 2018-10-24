@@ -70,7 +70,7 @@ University of Wisconsin-Madison, USA.
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
 
-[OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis(https://openreview.net/forum?id=BkZu9wooz)
+[OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image] Analysis(https://openreview.net/forum?id=BkZu9wooz)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
