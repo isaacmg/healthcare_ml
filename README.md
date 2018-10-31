@@ -239,6 +239,8 @@ Companies are arranged alphabetical order.
 
 [Benevolent AI](https://benevolent.ai)
 
+[Camereyes](http://camereyes.com)
+
 [Center Clinical Data Science Mass General](https://www.ccds.io)
 
 [Deep Genomics](https://www.deepgenomics.com)
@@ -246,6 +248,8 @@ Companies are arranged alphabetical order.
 [Etiometry](http://www.etiometry.com)
 
 [Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
+
+[Hemonitor](https://www.hemonitor.co)
 
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
 
