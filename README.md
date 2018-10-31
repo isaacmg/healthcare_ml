@@ -164,6 +164,8 @@ LUNA 16
 
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
+[Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks](https://github.com/sjblim/rmsn_nips_2018)
+
 
 ## Other and Multiple Categories
 
