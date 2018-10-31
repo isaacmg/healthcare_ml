@@ -196,7 +196,7 @@ LUNA 16
 
 [Ninth Workshop on Health Text Mining at EMNLP](https://louhi2018.fbk.eu)
 
-[DL 2018](https://www.re-work.co/events/deep-learning-health-boston-2018)
+[Rework Healthcare 2018](https://www.re-work.co/events/deep-learning-health-boston-2018)
 
 
 
@@ -243,6 +243,8 @@ Companies are arranged alphabetical order.
 
 [Deep Genomics](https://www.deepgenomics.com)
 
+[Etiometry](http://www.etiometry.com)
+
 [Heartflow](https://www.google.com/search?client=opera&q=heartflow&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
 [Healthcare at Google](https://research.google.com/teams/brain/healthcare/)
@@ -250,5 +252,7 @@ Companies are arranged alphabetical order.
 [Insitrio](http://www.insitro.com)
 
 [Path.AI](http://path.ai)
+
+[Recursion Pharmaceuticals](https://www.recursionpharma.com)
 
 [Siemens AI Document](http://www.usa.siemens.com/pool/news_events/innovation-day/10_usinnoday2017_artificial_intelligence.pdf)
