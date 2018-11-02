@@ -39,9 +39,12 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)
 
+[ Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery](https://arxiv.org/pdf/1803.09518.pdf) 
+
 [Lesson Learned from Natural Language Inference in the Clinical Domain](https://arxiv.org/pdf/1808.06752.pdf)
 
 [Molecular De Novo design using Recurrent Neural Networks and Reinforcement Learning Code](https://github.com/MarcusOlivecrona/REINVENT)
+
 
 [NAACL Paper on Cross Speciality Entity Recognition for Medicine](https://aclanthology.coli.uni-saarland.de/papers/N18-1001/n18-1001)
 
@@ -209,6 +212,8 @@ LUNA 16
 [Annotating a Large Representative Corpus of Clinical Notes for Parts of Speech](https://www.researchgate.net/publication/301404639_Annotating_a_Large_Representative_Corpus_of_Clinical_Notes_for_Parts_of_Speech)
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic.
+
+[Leveraging uncertainty information from deep neural networks for disease detection](https://www.nature.com/articles/s41598-017-17876-z)
 
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
