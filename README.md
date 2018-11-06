@@ -77,6 +77,8 @@ University of Wisconsin-Madison, USA.
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
+[Towards Deep Cellular Phenotyping in Placental Histology](https://arxiv.org/pdf/1804.03270.pdf)
+
 
 
 ### Blogs, blog posts, and reddit discussions
