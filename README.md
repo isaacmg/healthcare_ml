@@ -39,7 +39,7 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)
 
-[ Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery](https://arxiv.org/pdf/1803.09518.pdf) 
+[Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery](https://arxiv.org/pdf/1803.09518.pdf) 
 
 [Lesson Learned from Natural Language Inference in the Clinical Domain](https://arxiv.org/pdf/1808.06752.pdf)
 
@@ -143,6 +143,8 @@ LUNA 16
 ## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
 
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
+
+[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
 
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
 
