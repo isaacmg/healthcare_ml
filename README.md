@@ -31,6 +31,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 ## Genomics
 [Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data](https://arxiv.org/pdf/1810.09433.pdf)
+[Machine Learning Genomic Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7347331)
+[Deep learning for Genomics as Overview](https://arxiv.org/abs/1802.00810)
 
 ## Precision Medicine/Drug Discovery
 
