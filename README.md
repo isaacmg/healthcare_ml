@@ -30,6 +30,7 @@ This repository is a list of the all the relevant resources on applying machine 
 ## Introduction
 
 ## Genomics
+[Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data](https://arxiv.org/pdf/1810.09433.pdf)
 
 ## Precision Medicine/Drug Discovery
 
