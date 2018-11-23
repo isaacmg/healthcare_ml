@@ -176,6 +176,8 @@ LUNA 16
 
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
+[Deep Self Organization with application to ICU](https://openreview.net/pdf?id=rygjcsR9Y7)
+
 [Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks](https://github.com/sjblim/rmsn_nips_2018)
 
 
