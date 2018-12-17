@@ -42,11 +42,18 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Deep generative models of genetic variation capture the effects of mutations](https://arxiv.org/abs/1712.06527)
 
+[Deep RL for Radiation Therapy](https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.12625)
+
 [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)
+
+[End-to-end training of deep probabilistic CCA for
+joint modeling of paired biomedical observations](http://bayesiandeeplearning.org/2018/papers/113.pdf)
+
 
 [Fréchet ChemNet Distance: A metric for generative models for molecules in drug discovery](https://arxiv.org/pdf/1803.09518.pdf) 
 
 [Lesson Learned from Natural Language Inference in the Clinical Domain](https://arxiv.org/pdf/1808.06752.pdf)
+
 
 [Molecular De Novo design using Recurrent Neural Networks and Reinforcement Learning Code](https://github.com/MarcusOlivecrona/REINVENT)
 
