@@ -233,6 +233,8 @@ LUNA 16
 
 [Leveraging uncertainty information from deep neural networks for disease detection](https://www.nature.com/articles/s41598-017-17876-z)
 
+[Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](http://aclweb.org/anthology/N18-1001)
+
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
 [Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
