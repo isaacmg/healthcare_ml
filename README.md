@@ -245,6 +245,8 @@ LUNA 16
 
 [Novel Exploration Techniques (NETs) for Malaria Policy Interventions](https://arxiv.org/pdf/1712.00428.pdf)
 
+[Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams with application to diabetes](https://openreview.net/pdf?id=S1eOHo09KX)
+
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
 
 ### Additional Natural Language Processing for Healthcare Tools
