@@ -229,17 +229,17 @@ LUNA 16
 
 [Annotating a Large Representative Corpus of Clinical Notes for Parts of Speech](https://www.researchgate.net/publication/301404639_Annotating_a_Large_Representative_Corpus_of_Clinical_Notes_for_Parts_of_Speech)
 
+[Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
+
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic.
+
+[EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
 [Leveraging uncertainty information from deep neural networks for disease detection](https://www.nature.com/articles/s41598-017-17876-z)
 
 [Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](http://aclweb.org/anthology/N18-1001)
 
-[Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
-
 [Machine Learning for Medical Diagnosis](https://dl.acm.org/citation.cfm?id=2306356) PSU article 2006
-
-[EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
 [MiME: Multilevel Medical Embedding of Electronic Health Records for Predictive Healthcare](https://nips.cc/Conferences/2018/Schedule?showEvent=11448)
 
@@ -248,6 +248,8 @@ LUNA 16
 [Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams with application to diabetes](https://openreview.net/pdf?id=S1eOHo09KX)
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
+
+[Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://nips.cc/Conferences/2018/Schedule?showEvent=11112)
 
 ### Additional Natural Language Processing for Healthcare Tools
 
