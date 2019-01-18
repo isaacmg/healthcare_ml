@@ -30,6 +30,9 @@ This repository is a list of the all the relevant resources on applying machine 
 ## Introduction
 
 ## Genomics
+
+[AffinityNet](https://arxiv.org/abs/1805.08905)
+
 [Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data](https://arxiv.org/pdf/1810.09433.pdf)
 
 [Machine Learning Genomic Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7347331)
@@ -43,6 +46,8 @@ This repository is a list of the all the relevant resources on applying machine 
 [Deep generative models of genetic variation capture the effects of mutations](https://arxiv.org/abs/1712.06527)
 
 [Deep RL for Radiation Therapy](https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.12625)
+
+[GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination](https://github.com/sjy1203/GAMENet)
 
 [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886)
 
@@ -74,6 +79,7 @@ University of Wisconsin-Madison, USA.
 ## Medical Imaging
 
 ### Papers
+
 
 [Clinically Applicable deep learning for retinal disease diagnosis and referal](https://lmb.informatik.uni-freiburg.de/Publications/2018/Ron18/paper-De_Fauw_et_al_2018_Nature_Medicine.pdf)
 
@@ -154,19 +160,24 @@ LUNA 16
 
 ## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
 
+[Attend and Diagnose](https://arxiv.org/pdf/1711.03905.pdf)
+
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
+
+[ Emergency Department Online Patient-Caregiver Scheduling](linktocome)
 
 [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
 
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
 
-[Unsupervised Domain Adaptation for Clinical Negation Detection](http://www.aclweb.org/anthology/W17-2320)
 
 [Multitask Learning and Benchmarking with Clinical Time Series Data](https://arxiv.org/abs/1703.07771)
 
 [Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis](https://sci-hub.tw/10.1097/ALN.0000000000002300#)
 
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
+
+[Unsupervised Domain Adaptation for Clinical Negation Detection](http://www.aclweb.org/anthology/W17-2320)
 
 [Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
 
