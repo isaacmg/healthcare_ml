@@ -80,6 +80,7 @@ University of Wisconsin-Madison, USA.
 
 ### Papers
 
+[A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels](https://arxiv.org/abs/1807.11719)
 
 [Clinically Applicable deep learning for retinal disease diagnosis and referal](https://lmb.informatik.uni-freiburg.de/Publications/2018/Ron18/paper-De_Fauw_et_al_2018_Nature_Medicine.pdf)
 
@@ -92,6 +93,8 @@ University of Wisconsin-Madison, USA.
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
 
 [OBELISK - One Kernel to Solve Nearly Everything: Unified 3D Binary Convolutions for Image Analysis](https://openreview.net/forum?id=BkZu9wooz)
+
+[PGANs: Personalized Generative Adversarial Networks for ECG Generation to improve Patient-Specific Deep ECG Classification](http://www.kiraradinsky.com/files/pgans-personalized-generative.pdf)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
@@ -161,10 +164,10 @@ LUNA 16
 ## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
 
 [Attend and Diagnose](https://arxiv.org/pdf/1711.03905.pdf)
-
+[
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
 
-[ Emergency Department Online Patient-Caregiver Scheduling](linktocome)
+[Emergency Department Online Patient-Caregiver Scheduling](linktocome)
 
 [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
 
@@ -259,6 +262,8 @@ LUNA 16
 [Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams with application to diabetes](https://openreview.net/pdf?id=S1eOHo09KX)
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
+
+[Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-negative Tensor Factorization]()
 
 [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://nips.cc/Conferences/2018/Schedule?showEvent=11112)
 
