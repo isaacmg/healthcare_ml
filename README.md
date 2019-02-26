@@ -248,6 +248,8 @@ LUNA 16
 
 [EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
+[GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination](https://arxiv.org/abs/1809.01852)
+
 [Leveraging uncertainty information from deep neural networks for disease detection](https://www.nature.com/articles/s41598-017-17876-z)
 
 [Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition](http://aclweb.org/anthology/N18-1001)
