@@ -164,15 +164,14 @@ LUNA 16
 ## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
 
 [Attend and Diagnose](https://arxiv.org/pdf/1711.03905.pdf)
-[
+
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
 
-[Emergency Department Online Patient-Caregiver Scheduling](linktocome)
+[Emergency Department Online Patient-Caregiver Scheduling](http://u.cs.biu.ac.il/~rosenfa5/publications/ER2019.pdf)
 
 [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
 
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
-
 
 [Multitask Learning and Benchmarking with Clinical Time Series Data](https://arxiv.org/abs/1703.07771)
 
