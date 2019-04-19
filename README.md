@@ -110,6 +110,10 @@ University of Wisconsin-Madison, USA.
 
 ### Conferences and Workshops
 
+[BioNLP Workshops](https://aclweb.org/aclwiki/BioNLP_Workshop)
+
+[Deep learning for healthcare video series MIT](https://www.youtube.com/watch?v=k0LacC4hyY8&list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee&index=5)
+
 [Harvard Digital Doctor Symposium](https://youtu.be/CiqYtZWBXqE)
 
 [Medical Imaging with deep learning MIDL](https://sites.google.com/view/midl)
@@ -269,6 +273,8 @@ LUNA 16
 [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://nips.cc/Conferences/2018/Schedule?showEvent=11112)
 
 ### Additional Natural Language Processing for Healthcare Tools
+
+[BioBERT](https://github.com/dmis-lab/biobert)
 
 [Clinical Named Entity Recognition system (CliNER)](https://github.com/text-machine-lab/CliNER)
 
