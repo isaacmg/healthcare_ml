@@ -110,8 +110,6 @@ University of Wisconsin-Madison, USA.
 
 ### Conferences and Workshops
 
-[BioNLP Workshops](https://aclweb.org/aclwiki/BioNLP_Workshop)
-
 [Deep learning for healthcare video series MIT](https://www.youtube.com/watch?v=k0LacC4hyY8&list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee&index=5)
 
 [Harvard Digital Doctor Symposium](https://youtu.be/CiqYtZWBXqE)
@@ -224,7 +222,13 @@ LUNA 16
 
 ### Conferences
 
+[BioNLP Workshops](https://aclweb.org/aclwiki/BioNLP_Workshop)
+
+[Clinical NLP](https://clinical-nlp.github.io/2019/index.html)
+
 [Machine Learning for Healthcare Conference](http://mucmd.org)
+
+[HealthTac](http://healtex.org/healtac-2019/)
 
 [Trec Clinical Decision Support](http://www.trec-cds.org)
 
