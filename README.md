@@ -246,6 +246,8 @@ LUNA 16
 
 ### Papers
 
+[Active Learning for Decision-Making from Imbalanced Observational Data (application to personalized treatment](https://arxiv.org/pdf/1904.05268.pdf)
+
 [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
 
 [Annotating a Large Representative Corpus of Clinical Notes for Parts of Speech](https://www.researchgate.net/publication/301404639_Annotating_a_Large_Representative_Corpus_of_Clinical_Notes_for_Parts_of_Speech)
@@ -253,6 +255,8 @@ LUNA 16
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic.
+
+[Direct Uncertainty Prediction for Medical Second Opinions](https://arxiv.org/abs/1807.01771)
 
 [EMER-QA A large corpus for question answering on electronic medical records](https://arxiv.org/pdf/1809.00732.pdf)
 
