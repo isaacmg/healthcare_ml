@@ -163,9 +163,11 @@ LUNA 16
 [Medical Image Analysis Network (UK)](https://www.median.ac.uk/network)
 
 
-## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs...)
+## Hospital Operations (i.e. OR Utilization, Scheduling, Discharge planning, HAIs, EMRs...)
 
 [Attend and Diagnose](https://arxiv.org/pdf/1711.03905.pdf)
+
+[Adversarial Learning of Privacy-Preserving Text Representations for De-Identification of Medical Records](https://arxiv.org/abs/1906.05000)
 
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
 
@@ -210,6 +212,8 @@ LUNA 16
 
 [Clinical Case Reports Dataset for machine comprehension](https://github.com/clips/clicr)
 
+[HEAD-QA: A Healthcare Dataset for Complex Reasoning](https://arxiv.org/abs/1906.04701)
+
 [NLP Datasets from i2b2](https://www.i2b2.org/NLP/DataSets/Main.php)
 
 [EBM-NLP 5,000 richly annotated abstracts of medical articles](http://www.ccis.northeastern.edu/home/bennye/EBM-NLP/browse.html)
@@ -240,6 +244,8 @@ LUNA 16
 
 [Ninth Workshop on Health Text Mining at EMNLP](https://louhi2018.fbk.eu)
 
+[NAACL 2019 On Tutorial Applications of Natural Language Processing in Clinical Research and Practice](https://www.aclweb.org/anthology/attachments/N19-5006.Presentation.pdf)
+
 [Rework Healthcare 2018](https://www.re-work.co/events/deep-learning-health-boston-2018)
 
 
@@ -255,6 +261,8 @@ LUNA 16
 [Automated Medical Scribe for recording clinical encounters](http://aclweb.org/anthology/N18-5003)
 
 [Deep Learning for Healthcare Review, Opportunities, Challenges](https://www.ncbi.nlm.nih.gov/pubmed/28481991) published Oxford Academic.
+
+[Deep Neural Models for Medical Concept Normalization in User-Generated Texts](link coming)
 
 [Direct Uncertainty Prediction for Medical Second Opinions](https://arxiv.org/abs/1807.01771)
 
@@ -275,6 +283,8 @@ LUNA 16
 [Opportunistic Learning: Budgeted Cost-Sensitive Learning from Data Streams with application to diabetes](https://openreview.net/pdf?id=S1eOHo09KX)
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
+
+[Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting](link coming)
 
 [Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-negative Tensor Factorization]()
 
