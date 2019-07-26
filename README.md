@@ -284,9 +284,9 @@ LUNA 16
 
 [Patient2Vec: A Personalized Interpretable Deep Representation of the Longitudinal Electronic Health Record](https://arxiv.org/abs/1810.04793)
 
-[Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting](link coming)
+[Towards Automating Healthcare Question Answering in a Noisy Multilingual Low-Resource Setting](https://www.aclweb.org/anthology/P19-1090)
 
-[Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-negative Tensor Factorization]()
+[Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-negative Tensor Factorization](https://dmas.lab.mcgill.ca/fung/pub/YQCFP19aaai_postprint.pdf)
 
 [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://nips.cc/Conferences/2018/Schedule?showEvent=11112)
 
