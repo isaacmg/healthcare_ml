@@ -171,6 +171,8 @@ LUNA 16
 
 [Detecting Hospital Acquired Infections with SVMs](http://journals.sagepub.com/doi/full/10.1177/1460458216656471)
 
+[Deep EHR: a survey of recent deep learning techniques for EHR analysis](https://arxiv.org/pdf/1706.03446.pdf)
+
 [Emergency Department Online Patient-Caregiver Scheduling](http://u.cs.biu.ac.il/~rosenfa5/publications/ER2019.pdf)
 
 [Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
@@ -221,7 +223,6 @@ LUNA 16
 [EMR-Question and Answering Code](https://github.com/panushri25/emrQA)
 
 [OncoKB](http://oncokb.org/)
-
 
 
 ### Conferences
