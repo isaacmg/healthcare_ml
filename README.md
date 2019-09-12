@@ -41,6 +41,10 @@ This repository is a list of the all the relevant resources on applying machine 
 
 ## Precision Medicine/Drug Discovery
 
+[Assessing Disparate Impacts of Personalized Interventions: Identifiability and Bounds](https://arxiv.org/abs/1906.01552)
+
+[Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/pdf/1906.02120.pdf)
+
 [Dr. VAE](https://arxiv.org/pdf/1706.08203.pdf)
 
 [Deep generative models of genetic variation capture the effects of mutations](https://arxiv.org/abs/1712.06527)
@@ -97,6 +101,8 @@ University of Wisconsin-Madison, USA.
 [PGANs: Personalized Generative Adversarial Networks for ECG Generation to improve Patient-Specific Deep ECG Classification](http://www.kiraradinsky.com/files/pgans-personalized-generative.pdf)
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
+
+[Transfusion: Understanding Transfer Learning for Medical Imaging](http://arxiv.org/abs/1902.07208)
 
 [Towards Deep Cellular Phenotyping in Placental Histology](https://arxiv.org/pdf/1804.03270.pdf)
 
@@ -183,6 +189,8 @@ LUNA 16
 
 [Machine-learning Algorithm to Predict Hypotension Based on High- delity Arterial Pressure Waveform Analysis](https://sci-hub.tw/10.1097/ALN.0000000000002300#)
 
+[Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation](https://arxiv.org/abs/1906.02325) 
+
 [Smart Hospital Hand Hygiene (Stanford)](http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf)
 
 [Unsupervised Domain Adaptation for Clinical Negation Detection](http://www.aclweb.org/anthology/W17-2320)
@@ -203,6 +211,10 @@ LUNA 16
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 [Deep Self Organization with application to ICU](https://openreview.net/pdf?id=rygjcsR9Y7)
+
+[Manifold-regression to predict from MEG/EEG brain signals without source modeling](https://arxiv.org/abs/1906.02687)
+
+[U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging](to come)
 
 [Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks](https://github.com/sjblim/rmsn_nips_2018)
 
