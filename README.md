@@ -71,6 +71,8 @@ joint modeling of paired biomedical observations](http://bayesiandeeplearning.or
 
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
 
+[Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes](link_to_come)
+
 [Regression tree methods for precision medicine](https://www.youtube.com/watch?v=jpUItf0Wt4Y) talk by Wei-Yin Loh
 University of Wisconsin-Madison, USA.
 
@@ -89,6 +91,8 @@ University of Wisconsin-Madison, USA.
 [Clinically Applicable deep learning for retinal disease diagnosis and referal](https://lmb.informatik.uni-freiburg.de/Publications/2018/Ron18/paper-De_Fauw_et_al_2018_Nature_Medicine.pdf)
 
 [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
+
+[Domain Generalization via Model-Agnostic Learning of Semantic Features (with application to medical image segmentation](https://arxiv.org/abs/1910.13580)
 
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
