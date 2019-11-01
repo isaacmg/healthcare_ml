@@ -106,6 +106,8 @@ University of Wisconsin-Madison, USA.
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
+[Recurrent Registration Neural Networks for Deformable Image Registration](https://arxiv.org/abs/1906.09988)
+
 [Transfusion: Understanding Transfer Learning for Medical Imaging](http://arxiv.org/abs/1902.07208)
 
 [Towards Deep Cellular Phenotyping in Placental Histology](https://arxiv.org/pdf/1804.03270.pdf)
@@ -215,6 +217,8 @@ LUNA 16
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 [Deep Self Organization with application to ICU](https://openreview.net/pdf?id=rygjcsR9Y7)
+
+[GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series](https://arxiv.org/pdf/1905.12374v1.pdf)
 
 [Manifold-regression to predict from MEG/EEG brain signals without source modeling](https://arxiv.org/abs/1906.02687)
 
