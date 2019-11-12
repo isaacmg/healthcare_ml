@@ -49,6 +49,8 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Deep generative models of genetic variation capture the effects of mutations](https://arxiv.org/abs/1712.06527)
 
+[Deep learning with multimodal representation for pancancer prognosis prediction](https://academic.oup.com/bioinformatics/article/35/14/i446/5529139)
+
 [Deep RL for Radiation Therapy](https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.12625)
 
 [GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination](https://github.com/sjy1203/GAMENet)
@@ -71,7 +73,9 @@ joint modeling of paired biomedical observations](http://bayesiandeeplearning.or
 
 [ Natural Language Processing for Precision Medicine](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/1707_tutorial.pdf) ACL 2017 Tutorial.
 
-[Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes](link_to_come)
+[Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes](https://causalai.net/r48.pdf)
+
+[Predicting drug response of tumors from integrated genomic profiles by deep neural networks](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0460-9)
 
 [Regression tree methods for precision medicine](https://www.youtube.com/watch?v=jpUItf0Wt4Y) talk by Wei-Yin Loh
 University of Wisconsin-Madison, USA.
