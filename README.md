@@ -216,6 +216,8 @@ LUNA 16
 
 [Analysing and Improving the Diagnosis of Ischaemic Heart Disease with Machine Learning](https://www.ncbi.nlm.nih.gov/pubmed/10225345) NIH Article
 
+[Asthma Incidence Prediction with DNN](https://www.medrxiv.org/content/10.1101/19012161v1)
+
 [Doctor AI: Predicting Clinical Events via Recurrent Neural Network](https://arxiv.org/abs/1511.05942)s published in MLR
 
 [Cardiologist level classification of arrhythmia (Stanford)](https://arxiv.org/pdf/1707.01836.pdf) 
