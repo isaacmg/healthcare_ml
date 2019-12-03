@@ -37,13 +37,15 @@ This repository is a list of the all the relevant resources on applying machine 
 
 [Machine Learning Genomic Medicine](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7347331)
 
-[Deep learning for Genomics as Overview](https://arxiv.org/abs/1802.00810)
+[Deep learning for Genomics a Overview](https://arxiv.org/abs/1802.00810)
 
 ## Precision Medicine/Drug Discovery
 
 [Assessing Disparate Impacts of Personalized Interventions: Identifiability and Bounds](https://arxiv.org/abs/1906.01552)
 
 [Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/pdf/1906.02120.pdf)
+
+[Attentive State-Space Modeling of Disease Progression](https://nips.cc/Conferences/2019/Schedule?showEvent=14124)
 
 [Dr. VAE](https://arxiv.org/pdf/1706.08203.pdf)
 
@@ -221,6 +223,8 @@ LUNA 16
 [Dynamic Bayesian Flu Forecasting](https://arxiv.org/abs/1708.09481)
 
 [Deep Self Organization with application to ICU](https://openreview.net/pdf?id=rygjcsR9Y7)
+
+[Interpretable AI for beat-to-beat cardiac function assessment](https://www.medrxiv.org/content/10.1101/19012419v2)
 
 [GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series](https://arxiv.org/pdf/1905.12374v1.pdf)
 
