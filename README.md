@@ -226,7 +226,7 @@ LUNA 16
 
 [Manifold-regression to predict from MEG/EEG brain signals without source modeling](https://arxiv.org/abs/1906.02687)
 
-[U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging](to come)
+[U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging](https://arxiv.org/abs/1910.11162)
 
 [Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks](https://github.com/sjblim/rmsn_nips_2018)
 
