@@ -102,6 +102,11 @@ University of Wisconsin-Madison, USA.
 
 [Dermatologist Level Skin Classification of skin cancer with deep neural networks](https://www.nature.com/articles/nature21056)
 
+[Discrepancy Ratio: Evaluating Model Performance When Even Experts Disagree on the Truth](https://openreview.net/forum?id=Byg-wJSYDS)
+
+[Explanation by Progressive Exaggeration](https://openreview.net/pdf?id=H1xFWgrFPS)
+
+
 [Overview of Deep Learning in Medical Imaging](https://arxiv.org/pdf/1702.05747.pdf)
 
 [On the Automatic Generation of Medical Imaging Reports](https://arxiv.org/abs/1711.08195)
@@ -112,7 +117,10 @@ University of Wisconsin-Madison, USA.
 
 [Hybrid Retrieval-Generation Reinforced Agent for Medical Image Report Generation](https://arxiv.org/abs/1805.08298)
 
+
 [Recurrent Registration Neural Networks for Deformable Image Registration](https://arxiv.org/abs/1906.09988)
+
+[Robust breast cancer detection in mammography and digital breast tomosynthesis using annotation-efficient deep learning approach](https://arxiv.org/abs/1912.11027)
 
 [Transfusion: Understanding Transfer Learning for Medical Imaging](http://arxiv.org/abs/1902.07208)
 
