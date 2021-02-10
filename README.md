@@ -262,6 +262,8 @@ LUNA 16
 
 [OncoKB](http://oncokb.org/)
 
+[MeDAL: A large medical text dataset curated for abbreviation disambiguation](https://github.com/BruceWen120/medal)
+
 
 ### Conferences
 
