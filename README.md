@@ -264,6 +264,9 @@ LUNA 16
 
 [MeDAL: A large medical text dataset curated for abbreviation disambiguation](https://github.com/BruceWen120/medal)
 
+[MIMIC - Medical Information Mart for Intensive Care - A large dataset by MIT and made available through Github] (https://mimic.mit.edu/)
+
+
 
 ### Conferences
 
