@@ -199,9 +199,9 @@ LUNA 16
 
 [Deep EHR: a survey of recent deep learning techniques for EHR analysis](https://arxiv.org/pdf/1706.03446.pdf)
 
-[Emergency Department Online Patient-Caregiver Scheduling](http://u.cs.biu.ac.il/~rosenfa5/publications/ER2019.pdf)
+[Emergency Department Online Patient-Caregiver Scheduling](https://ojs.aaai.org//index.php/AAAI/article/view/3745)
 
-[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](http://aclweb.org/anthology/D18-1352)
+[Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces (focuses on ICD Coding)](https://aclanthology.org/D18-1352.pdf)
 
 [Learning to predict post-hospitalization VTE risk from EHR data](http://europepmc.org/articles/pmc3540493)
 
@@ -215,7 +215,7 @@ LUNA 16
 
 [Unsupervised Domain Adaptation for Clinical Negation Detection](http://www.aclweb.org/anthology/W17-2320)
 
-[Vision Based Prediction of ICU Mobility with RNNs](http://www.gabrielbianconi.com/public/pdf/vision-based-prediction-of-icu-mobility-care-activities-using-recurrent-neural-networks-nips-ml4h-2017.pdf)
+[Vision Based Prediction of ICU Mobility with RNNs](https://www.semanticscholar.org/paper/Vision-Based-Prediction-of-ICU-Mobility-Care-using-Bianconi-Mehra/db6cf1ac611668fb61921cd98b9fb14525b7c2a6)
 
 ## Signal processing, forecasting, and adverse event prediction
 
